@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677448372958",
+    "project_id": "insertgetdeletdata",
+    "storage_bucket": "insertgetdeletdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677448372958:android:cee4903bd75af427db684f",
+        "android_client_info": {
+          "package_name": "com.example.insertgetdeletdata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy1hl_yXCromg4W5K-vJh2_crn1U8gZvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
